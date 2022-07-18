@@ -11,7 +11,7 @@ Other things, I have to admit I was suprised to look in on my old MQTT code and 
 years back and never got back to it. From memory there were was a race issue with concurrency or something. Anyway might get back and clean that up
 now that everyone is IOT-ing.
 
-Currently working on a node framwork and doing a lot more python ML etc. So expect to see more of that. Started playing about with Swift recently 
+Currently working on a node framework and doing a lot more python ML etc. So expect to see more of that. Started playing about with Swift recently 
 so who knows...
 
 Tools of the trade...some laptops - including a new HP Victus that I actually like, a Macbook Pro and an i7 desktop from 09. Should I include my 
